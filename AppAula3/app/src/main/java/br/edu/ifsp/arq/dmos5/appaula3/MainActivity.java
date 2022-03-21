@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view){
                 String nome = edtNome.getText().toString();
 
-                Toast.makeText(MainActivity.this, getString(R.string.msg)+nome,
+                Toast.makeText(MainActivity.this,  getString(R.string.msg)+nome,
                         Toast.LENGTH_SHORT).show();
             }
         });

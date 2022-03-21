@@ -2,5 +2,5 @@
     <string name="app_name">App Class3</string>
     <string name="name">Your name:</string>
     <string name="btn_enviar">Send</string>
-    <string name="msg">Welcome</string>
+    <string name="msg">Welcome, </string>
 </resources>
