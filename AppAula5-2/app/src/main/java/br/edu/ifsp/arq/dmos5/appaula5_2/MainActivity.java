@@ -1,5 +1,6 @@
 package br.edu.ifsp.arq.dmos5.appaula5_2;
 
+import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,6 +11,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
     private static final int REQUISICAO_ESTADO =1;
+    private static final String ESTADO_SELECIONADO = "estado";
 
     private String estado;
 
@@ -30,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
                 startActivityForResult(intent, REQUISICAO_ESTADO);
             }
         });
+        if (savedInstanceState != null){
+            estado = savedInstanceState.getString(ESTADO_SELECIONADO);
+            btnSelecionar.setText(estado);
+        }
     }
 
     @Override
@@ -43,4 +49,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putString(ESTADO_SELECIONADO, estado);
+    }
 }
