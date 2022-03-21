@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppAula5-2</string>
+    <string-array name="estados">
+        <item>São paulo</item>
+        <item>Minas Gerais</item>
+        <item>Espirito Santo</item>
+        <item>Goiás</item>
+    </string-array>
+    <string name="selecionar">Selecionar</string>
+</resources>
