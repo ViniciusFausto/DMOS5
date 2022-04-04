@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppAula7</string>
+    <string name="titulo">Titulo</string>
+    <string name="subtitulo">subtitulo</string>
+    <string name="categorias_populares">Categorias Populares</string>
+    <string name="produtos_recentes">Produtos Recentes</string>
+    <string name="camiseta_xyz">Camiseta XYZ</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppAula6</string>
+    <string name="acao_nao_suportada">Ação não suportada.</string>
+    <string name="acao_nao_permitida">Ação não permitida.</string>
+    <string-array name="acoes">
+        <item>Navegador</item>
+        <item>Discador de telefone</item>
+        <item>Chamada telefônica</item>
+        <item>Mapa</item>
+        <item>Contatos</item>
+        <item>SMS</item>
+        <item>Compartilhamento</item>
+        <item>Alarme</item>
+        <item>Busca na web</item>
+        <item>Configurações</item>
+    </string-array>
+</resources>
