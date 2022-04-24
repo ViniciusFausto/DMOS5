@@ -1,8 +1,49 @@
 <resources>
-    <string name="app_name">AppAula7</string>
-    <string name="titulo">Titulo</string>
-    <string name="subtitulo">subtitulo</string>
-    <string name="categorias_populares">Categorias Populares</string>
-    <string name="produtos_recentes">Produtos Recentes</string>
-    <string name="camiseta_xyz">Camiseta XYZ</string>
+    <string name="app_name">Loja Virtual Atlética - IFSP-ARQ</string>
+    <!-- Tela ProdutoDetalhe -->
+    <string name="produto_detalhe_btn_comprar">Comprar</string>
+    <string name="produto_detalhe_txt_descricao">Descrição</string>
+    <!-- Menu Drawer -->
+    <string name="menu_drawer_sair">Sair</string>
+    <string name="menu_drawer_meu_carrinho">Meu Carrinho</string>
+    <string name="menu_drawer_minhas_compras">Minhas Compras</string>
+    <string name="menu_drawer_categorias">Categorias</string>
+    <string name="menu_drawer_minha_conta">Minha Conta</string>
+    <string name="menu_drawer_home">Home</string>
+    <!-- Tela Principal -->
+    <string name="toogle_open">Open</string>
+    <string name="toogle_close">Close</string>
+    <!-- Tela UsuarioCadastro -->
+    <string name="usuario_cadastro_nome">Nome</string>
+    <string name="usuario_cadastro_email">E-mail</string>
+    <string name="usuario_cadastro_senha">Senha</string>
+    <string name="usuario_cadastro_cadastrar">CADASTRAR</string>
+    <string name="usuario_cadastro_titulo">Cadastro de Usuário</string>
+    <!-- Tela Login -->
+    <string name="usuario_login_entrar">ENTRAR</string>
+    <string name="usuario_login_titulo">Login</string>
+    <!-- Tela Perfil -->
+    <string name="usuario_perfil_sobrenome">Sobrenome</string>
+    <string name="usuario_perfil_logradouro">Logradouro (Avenida, Rua...)</string>
+    <string name="usuario_perfil_numero">Número</string>
+    <string name="usuario_cadastro_complemento">Complemento</string>
+    <string name="usuario_cadastro_bairro">Bairro</string>
+    <string name="usuario_cadastro_cidade">Cidade</string>
+    <string name="usuario_cadastro_cep">CEP</string>
+    <string name="usuario_perfil_atualizar">ATUALIZAR</string>
+    <string name="usuario_perfil_titulo">Perfil</string>
+    <!-- nomes das Unidades Federativas do Brasil -->
+    <string-array name="uf">
+        <item>Acre (AC)</item>
+        <item>Alagoas (AL)</item>
+        <item>Amapá (AP)</item>
+        <item>Amazonas (AM)</item>
+    </string-array>
 </resources>
+
+
+
+
+
+
+

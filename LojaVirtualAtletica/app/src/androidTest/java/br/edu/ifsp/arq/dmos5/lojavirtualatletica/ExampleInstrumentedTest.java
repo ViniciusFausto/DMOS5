@@ -1,4 +1,4 @@
-package br.edu.ifsp.arq.dmos5.appaula7;
+package br.edu.ifsp.arq.dmos5.lojavirtualatletica;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("br.edu.ifsp.arq.dmos5.appaula7", appContext.getPackageName());
+        assertEquals("br.edu.ifsp.arq.dmos5.lojavirtualatletica", appContext.getPackageName());
     }
 }

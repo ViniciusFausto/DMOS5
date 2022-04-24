@@ -3,12 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Vinic/OneDrive - ifsp.edu.br/ifsp_ads/semestre 5/DMOS5/AppAula7/app/src/main/res/layout/activity_main.xml" value="0.371875" />
-        <entry key="..\:/Users/Vinic/OneDrive - ifsp.edu.br/ifsp_ads/semestre 5/DMOS5/LojaVirtualAtletica/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1785" />
-        <entry key="..\:/Users/Vinic/OneDrive - ifsp.edu.br/ifsp_ads/semestre 5/DMOS5/LojaVirtualAtletica/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1785" />
-        <entry key="..\:/Users/Vinic/OneDrive - ifsp.edu.br/ifsp_ads/semestre 5/DMOS5/LojaVirtualAtletica/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
-        <entry key="..\:/Users/Vinic/OneDrive - ifsp.edu.br/ifsp_ads/semestre 5/DMOS5/LojaVirtualAtletica/app/src/main/res/layout/activity_produto_detail.xml" value="0.1" />
-        <entry key="..\:/Users/Vinic/OneDrive - ifsp.edu.br/ifsp_ads/semestre 5/DMOS5/LojaVirtualAtletica/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_produto_detalhe.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/menu_header_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/menu_navigation_view.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_drawer.xml" value="0.25" />
       </map>
     </option>
   </component>

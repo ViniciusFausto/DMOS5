@@ -1,4 +1,4 @@
-package br.edu.ifsp.arq.dmos5.appaula7;
+package br.edu.ifsp.arq.dmos5.lojavirtualatletica;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -13,7 +13,7 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        Intent intent = new Intent(this,MainActivity.class);
+        Intent intent = new Intent(this, MainActivity.class);
 
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
@@ -22,6 +22,6 @@ public class SplashActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             }
-        }, 3000);
+        },3000);
     }
 }

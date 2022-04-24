@@ -1,4 +1,4 @@
-package br.edu.ifsp.arq.dmos5.appaula7;
+package br.edu.ifsp.arq.dmos5.lojavirtualatletica;
 
 import org.junit.Test;
 
